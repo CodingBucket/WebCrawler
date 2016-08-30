@@ -1,0 +1,363 @@
+a:10:{s:7:"content";s:3645:" w3schools com the world\'s largest web developer site 9776 tutorials references examples tutorials references examples html and css learn html learn css learn w3 css learn colors learn bootstrap html graphics learn canvas learn svg learn icons learn google maps learn html games javascript learn javascript learn jquery learn jquerymobile learn appml learn angularjs learn json xml tutorials learn xml learn xslt learn ajax server side learn sql learn php learn asp learn asp net web building web building web statistics web certificates html html tag reference html event reference html color reference css css reference css selector reference w3 css reference bootstrap reference javascript javascript reference html dom reference jquery reference jquery mobile reference angularjs reference google maps reference xml xml dom reference xslt reference xml schema reference svg reference character sets html character sets html ascii html ansi html windows-1252 html iso-8859-1 html symbols html utf-8 server side php reference sql reference asp reference asp net reference razor reference html and css html examples css examples w3 css examples javascript javascript examples html dom examples jquery examples jquery mobile examples angularjs examples ajax examples server side php examples asp examples razor examples net examples xml xml examples xslt examples xpath examples xml schema examples svg examples translate w3schools com search w3schools com html and css learn html learn css learn w3 css learn colors learn bootstrap javascript learn javascript learn jquery learn jquerymobile learn appml learn angularjs learn json html graphics learn canvas learn svg learn icons learn google maps learn html games server side learn sql learn php learn asp learn asp net web building web building web statistics web certificates xml tutorials learn xml learn xslt learn ajax html the language for building web pages learn html html reference html example doctype html html title html tutorial title body h1 this is a heading h1 p this is a paragraph p body html try it yourself css the language for styling web pages learn css css reference css example body background-color d0e4fe h1 color orange text-align center p font-family times new roman font-size 20px try it yourself css the language for styling web pages learn css css reference javascript the language for programming web pages learn javascript javascript reference javascript example script function myfunction var x document getelementbyid demo x style fontsize 25px x style color red script button onclick myfunction click me button try it yourself sql a language for accessing databases learn sql php a web server programming language learn php jquery a javascript library for developing web pages learn jquery w3 css a modern css framework for faster and better responsive web sites learn w3 css color picker bootstrap bootstrap is a css framework for designing better web pages learn bootstrap web certificates forum about w3schools is optimized for learning testing and training examples might be simplified to improve reading and basic understanding tutorials references and examples are constantly reviewed to avoid errors but we cannot warrant full correctness of all content while using this site you agree to have read and accepted our terms of use cookie and privacy policy copyright 1999-2016 by refsnes data all rights reserved w3schools online web tutorials www w3schools com html css javascript dom jquery asp php sql xml bootstrap web w3c tutorials programming development training learning quiz primer lessons reference examples source code colors demos tips w3c";s:5:"title";s:30:"W3Schools Online Web Tutorials";s:11:"description";s:0:"";s:8:"keywords";N;s:4:"host";s:17:"www.w3schools.com";s:4:"path";s:1:"/";s:8:"nofollow";s:0:"";s:7:"noindex";s:0:"";s:4:"base";s:0:"";s:8:"fulltext";s:5450:"
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+w3schools.com  
+
+THE WORLD\'S LARGEST WEB DEVELOPER SITE  
+
+
+  &#9776; 
+  
+  TUTORIALS    
+  REFERENCES    
+  EXAMPLES    
+   
+   
+   
+ 
+
+
+  &times;  
+  
+  TUTORIALS   
+   
+  REFERENCES   
+   
+  EXAMPLES   
+   
+   
+ 
+
+
+  &times;  
+  
+    
+     HTML and CSS 
+    Learn HTML 
+    Learn CSS 
+    Learn W3.CSS 
+    Learn Colors 
+    Learn Bootstrap 
+     HTML Graphics 
+    Learn Canvas 
+    Learn SVG 
+    Learn Icons 
+    Learn Google Maps 
+    Learn HTML Games     
+     
+        
+     JavaScript 
+    Learn JavaScript 
+    Learn jQuery 
+    Learn jQueryMobile 
+    Learn AppML 
+    Learn AngularJS 
+    Learn JSON 
+     XML Tutorials 
+    Learn XML 
+    Learn XSLT 
+    Learn AJAX 
+     
+        
+     Server Side 
+    Learn SQL 
+    Learn PHP 
+    Learn ASP 
+    Learn ASP.NET 
+     Web Building 
+    Web Building 
+    Web Statistics 
+    Web Certificates 
+     
+   
+ 
+
+
+  &times;  
+  
+    
+     HTML 
+    HTML Tag Reference 
+    HTML Event Reference 
+    HTML Color Reference 
+     CSS 
+    CSS Reference 
+    CSS Selector Reference 
+    W3.CSS Reference 
+    Bootstrap Reference 
+     
+    
+     JavaScript 
+    JavaScript Reference 
+    HTML DOM Reference 
+    jQuery Reference 
+    jQuery Mobile Reference 
+    AngularJS Reference     
+    Google Maps Reference 
+     XML 
+    XML DOM Reference 
+    XSLT Reference 
+    XML Schema Reference 
+    SVG Reference 
+     
+    
+     Character Sets 
+    HTML Character Sets 
+    HTML ASCII 
+    HTML ANSI 
+    HTML Windows-1252 
+    HTML ISO-8859-1 
+    HTML Symbols 
+    HTML UTF-8 
+     Server Side 
+    PHP Reference 
+    SQL Reference 
+    ASP Reference 
+    ASP.NET Reference 
+    Razor Reference 
+     
+   
+ 
+
+
+  &times;  
+  
+    
+     HTML and CSS 
+    HTML Examples 
+    CSS Examples 
+    W3.CSS Examples 
+     
+    
+     JavaScript 
+    JavaScript Examples 
+    HTML DOM Examples 
+    jQuery Examples 
+    jQuery Mobile Examples 
+    AngularJS Examples 
+    AJAX Examples 
+     
+    
+     Server Side 
+    PHP Examples 
+    ASP Examples 
+    Razor Examples 
+    .NET Examples 
+     
+    
+     XML 
+    XML Examples 
+    XSLT Examples 
+    XPath Examples 
+    XML Schema Examples 
+    SVG Examples 
+     
+   
+ 
+
+
+  &times;   
+  Translate w3schools.com:
+   
+   
+ 
+
+
+  &times;   
+  
+    Search w3schools.com:
+      
+   
+   
+ 
+
+
+&times;  
+ HTML and CSS 
+Learn HTML 
+Learn CSS 
+Learn W3.CSS 
+Learn Colors 
+Learn Bootstrap 
+ JavaScript 
+Learn JavaScript 
+Learn jQuery 
+Learn jQueryMobile 
+Learn AppML 
+Learn AngularJS 
+Learn JSON 
+ HTML Graphics 
+Learn Canvas 
+Learn SVG 
+Learn Icons 
+Learn Google Maps 
+Learn HTML Games 
+ Server Side 
+Learn SQL 
+Learn PHP 
+Learn ASP 
+Learn ASP.NET 
+ Web Building 
+Web Building 
+Web Statistics 
+Web Certificates 
+ XML Tutorials 
+Learn XML 
+Learn XSLT 
+Learn AJAX 
+ 
+
+
+
+  
+   HTML 
+   The language for building web pages 
+  LEARN HTML 
+  HTML REFERENCE 
+   
+  
+    
+     HTML Example: 
+    
+    &lt;!DOCTYPE html&gt; 
+    &lt;html&gt; 
+    &lt;title&gt;HTML Tutorial&lt;/title&gt; 
+    &lt;body&gt;  
+    &lt;h1&gt;This is a heading&lt;/h1&gt; 
+    &lt;p&gt;This is a paragraph.&lt;/p&gt;  
+    &lt;/body&gt; 
+    &lt;/html&gt;
+     
+    Try it Yourself 
+     
+   
+ 
+
+  
+   CSS 
+   The language for styling web pages 
+  LEARN CSS 
+  CSS REFERENCE   
+   
+  
+   CSS Example: 
+  
+  body { 
+      background-color: #d0e4fe; } h1 { 
+      color: orange; 
+      text-align: center; } p { 
+      font-family: &quot;Times New Roman&quot;; 
+      font-size: 20px; 
+  }
+   
+  Try it Yourself 
+   
+  
+   CSS 
+   The language for styling web pages 
+  LEARN CSS 
+  CSS REFERENCE   
+   
+ 
+
+  
+   JavaScript 
+   The language for programming web pages 
+  LEARN JAVASCRIPT 
+  JAVASCRIPT REFERENCE   
+   
+  
+    
+     JavaScript Example: 
+    
+    &lt;script&gt; function myFunction() {     var x = 
+    document.getElementById(&quot;demo&quot;);     
+    x.style.fontSize = &quot;25px&quot;;      x.style.color = 
+    &quot;red&quot;;  }  &lt;/script&gt;  &lt;button onclick=&quot;myFunction()&quot;&gt;Click 
+    Me!&lt;/button&gt; 
+     
+    Try it Yourself 
+     
+   
+ 
+
+  
+  
+   SQL 
+   A language for accessing databases 
+  LEARN SQL 
+   
+   
+  
+  
+   PHP 
+   A web server programming language 
+  LEARN PHP 
+   
+   
+  
+  
+   jQuery 
+   A JavaScript library for developing web pages 
+  LEARN JQUERY 
+   
+   
+ 
+
+  
+   W3.CSS 
+  A modern CSS framework for faster and better responsive web sites 
+  LEARN W3.CSS 
+   
+  
+   Color Picker 
+   
+   
+  
+   Bootstrap 
+  Bootstrap is a CSS framework for designing better web pages 
+  LEARN BOOTSTRAP 
+   
+ 
+ 
+
+  WEB CERTIFICATES  
+   
+  
+  FORUM  |
+  ABOUT 
+   
+   
+  
+  W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding.
+  Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content.
+  While using this site, you agree to have read and accepted our terms of use , cookie and privacy policy . 
+  Copyright 1999-2016  by Refsnes Data. All Rights Reserved.  
+   
+    
+  
+     
+     
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  ";}
